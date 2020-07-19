@@ -26,6 +26,7 @@ Dism++ rules file which provides cleanup and optimization rules.
 | pl-PL.xml | Polish | romuald68@gmail.com, Bladius (KuchtaPC2015@outlook.com)
 | pt.xml | Portuguese | JNylson
 | ru.xml | Russian | Black Alex, Vasiliy Nasonov, virus, Vladimir, ZT
+| uk.xml | Ukrainian | Vitaliy (aka Anarch121)
 | tr.xml | Turkish | Kaya Zeren
 | zh-Hans.xml | Chinese Simplified | mingkuang
 | zh-Hant.xml | Chinese Traditional | GT Wang (http://mkvq.blogspot.com) 、jamesfuh、月下独酌
@@ -54,5 +55,6 @@ Dism++官方网站以及帮助文档。
 | ja.xml | Japanese | 山形まり花
 | pt.xml | Portuguese | JNylson
 | ru.xml | Russian | AHOHNMYC
+| ua.xml | Ukrainian | Vitaliy (aka Anarch121)
 | zh-Hans.xml | Chinese Simplified | mingkuang
 | zh-Hant.xml | Chinese Traditional | GT Wang (http://mkvq.blogspot.com)
